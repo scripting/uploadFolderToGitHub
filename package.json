@@ -1,0 +1,13 @@
+{
+	"name": "uploadfoldertogithub",
+	"description": "Upload the contents of a local folder to a folder on GitHub.",
+	"author": "Dave Winer <dave@scripting.com>",
+	"main": "uploadfolder.js",
+	"license": "MIT",
+	"version": "0.4.0",
+	"dependencies" : {
+		"daveutils": "*",
+		"davefilesystem": "*",
+		"davegithub": "*"
+		} 
+	}

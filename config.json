@@ -1,0 +1,15 @@
+{
+	"folderToUpload": "data/backups/",
+	"githubBackup": {
+		"enabled": true,
+		"username": "bullmancuso",
+		"repo": "myfiles",
+		"basepath": "backups/",
+		"password": "lotsaluck",
+		"committer": {
+			"name": "Bull Mancuso",
+			"email": "bullmancuso@gmail.com"
+			},
+		"message": "."
+		}
+	}
